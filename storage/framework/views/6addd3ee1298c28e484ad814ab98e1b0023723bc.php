@@ -1,0 +1,1 @@
+<?php /**PATH C:\XAMPP\htdocs\laravel\blog\resources\views/pages/stat.blade.php ENDPATH**/ ?>
